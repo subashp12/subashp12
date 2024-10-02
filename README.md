@@ -6,7 +6,7 @@ I'm a passionate web developer skilled in HTML, CSS, JavaScript, and Tailwind CS
 
 ## 🚀 Skills
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Tailwind CSS
+- **Frameworks & Libraries:** Tailwind CSS , React
 - **Tools:** Git, GitHub, VS Code
 - **Design:** Responsive Web Design, UI/UX Principles
 
